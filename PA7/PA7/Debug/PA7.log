@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Simpletron.cpp
+c:\users\kkel\desktop\cpts 122\pa7\pa7\simpletron.cpp(111): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  PA7.vcxproj -> C:\Users\Kkel\Desktop\Cpts 122\PA7\Debug\PA7.exe
+  PA7.vcxproj -> C:\Users\Kkel\Desktop\Cpts 122\PA7\Debug\PA7.pdb (Full PDB)

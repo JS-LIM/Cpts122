@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\kkel\desktop\cpts 122\lab3_task1\lab3_sec1\main.c(21): warning C4133: 'function': incompatible types - from 'Node *' to 'Stack *'
+  Lab3_Sec1.vcxproj -> C:\Users\Kkel\Desktop\Cpts 122\Lab3_Task1\Debug\Lab3_Sec1.exe
+  Lab3_Sec1.vcxproj -> C:\Users\Kkel\Desktop\Cpts 122\Lab3_Task1\Debug\Lab3_Sec1.pdb (Full PDB)

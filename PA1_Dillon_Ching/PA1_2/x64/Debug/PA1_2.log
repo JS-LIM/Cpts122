@@ -1,0 +1,10 @@
+﻿  testPA1_3.c
+c:\users\kkel\desktop\pa1_dillon_ching\pa1_2\testpa1_3.c(31): warning C4098: 'testPA1_3': 'void' function returning a value
+  main_3.c
+  func_3.c
+c:\users\kkel\desktop\pa1_dillon_ching\pa1_2\func_3.c(16): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+c:\users\kkel\desktop\pa1_dillon_ching\pa1_2\func_3.c(32): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+c:\users\kkel\desktop\pa1_dillon_ching\pa1_2\func_3.c(75): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+  Generating Code...
+  PA1_2.vcxproj -> C:\Users\Kkel\Desktop\PA1_Dillon_Ching\x64\Debug\PA1_3.exe
+  PA1_2.vcxproj -> C:\Users\Kkel\Desktop\PA1_Dillon_Ching\x64\Debug\PA1_3.pdb (Full PDB)

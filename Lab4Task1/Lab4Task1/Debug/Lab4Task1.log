@@ -1,0 +1,11 @@
+﻿  main.c
+c:\users\kkel\desktop\cpts 122\lab4task1\lab4task1\main.c(15): warning C4047: 'function': 'char' differs in levels of indirection from 'char *'
+c:\users\kkel\desktop\cpts 122\lab4task1\lab4task1\main.c(15): warning C4024: 'dequeue': different types for formal and actual parameter 3
+c:\users\kkel\desktop\cpts 122\lab4task1\lab4task1\main.c(16): warning C4047: 'function': 'char' differs in levels of indirection from 'char *'
+c:\users\kkel\desktop\cpts 122\lab4task1\lab4task1\main.c(16): warning C4024: 'dequeue': different types for formal and actual parameter 3
+c:\users\kkel\desktop\cpts 122\lab4task1\lab4task1\main.c(17): warning C4047: 'function': 'char' differs in levels of indirection from 'char *'
+c:\users\kkel\desktop\cpts 122\lab4task1\lab4task1\main.c(17): warning C4024: 'dequeue': different types for formal and actual parameter 3
+c:\users\kkel\desktop\cpts 122\lab4task1\lab4task1\main.c(18): warning C4047: 'function': 'char' differs in levels of indirection from 'char *'
+c:\users\kkel\desktop\cpts 122\lab4task1\lab4task1\main.c(18): warning C4024: 'dequeue': different types for formal and actual parameter 3
+  Lab4Task1.vcxproj -> C:\Users\Kkel\Desktop\Cpts 122\Lab4Task1\Debug\Lab4Task1.exe
+  Lab4Task1.vcxproj -> C:\Users\Kkel\Desktop\Cpts 122\Lab4Task1\Debug\Lab4Task1.pdb (Full PDB)

@@ -1,0 +1,7 @@
+﻿  main.cpp
+  func.cpp
+  Generating Code...
+c:\users\kkel\desktop\cpts 122\lab6\lab6\func.cpp(72): warning C4172: returning address of local variable or temporary: result
+c:\users\kkel\desktop\cpts 122\lab6\lab6\func.cpp(62): warning C4172: returning address of local variable or temporary: result
+  Lab6.vcxproj -> C:\Users\Kkel\Desktop\Cpts 122\Lab6\Debug\Lab6.exe
+  Lab6.vcxproj -> C:\Users\Kkel\Desktop\Cpts 122\Lab6\Debug\Lab6.pdb (Full PDB)

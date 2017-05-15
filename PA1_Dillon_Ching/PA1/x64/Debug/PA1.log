@@ -1,0 +1,10 @@
+﻿  testPA1_2.c
+c:\users\kkel\desktop\pa1_dillon_ching\pa1\testpa1_2.c(27): warning C4098: 'testPA1_2': 'void' function returning a value
+c:\users\kkel\desktop\pa1_dillon_ching\pa1\testpa1_2.c(36): warning C4098: 'testPA1_2': 'void' function returning a value
+  main_2.c
+  func_2.c
+c:\users\kkel\desktop\pa1_dillon_ching\pa1\func_2.c(30): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+c:\users\kkel\desktop\pa1_dillon_ching\pa1\func_2.c(142): warning C4715: 'recur_maze_runner': not all control paths return a value
+  PA1.vcxproj -> C:\Users\Kkel\Desktop\PA1_Dillon_Ching\x64\Debug\PA1_2.exe
+  PA1.vcxproj -> C:\Users\Kkel\Desktop\PA1_Dillon_Ching\x64\Debug\PA1_2.pdb (Full PDB)
